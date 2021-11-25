@@ -1,7 +1,7 @@
 {
   "name": "entrega-12---vullioud",
   "version": "1.0.0",
-  "description": "",
+  "description": "Pagina informativa sobre Ushuaia",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
